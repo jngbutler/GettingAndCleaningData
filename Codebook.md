@@ -37,7 +37,7 @@ The course project [4] required that students
 #### Final Tidy Data Set
 The final "tidy data" set consists of 180 rows (6 activities x 30 subjects) and 81 columns.  
 
-subjectid		                  | activitylabel                 |AvgOf_tBodyAccMean_X          AvgOf_tBodyAccMean_Y          
+subjectid,                    activitylabel                 |AvgOf_tBodyAccMean_X          AvgOf_tBodyAccMean_Y          
 AvgOf_tBodyAccMean_Z          AvgOf_tBodyAccSTD_X           AvgOf_tBodyAccSTD_Y	          AvgOf_tBodyAccSTD_Z           
 AvgOf_tGravityAccMean_X       AvgOf_tGravityAccMean_Y       AvgOf_tGravityAccMean_Z       AvgOf_tGravityAccSTD_X        
 AvgOf_tGravityAccSTD_Y        AvgOf_tGravityAccSTD_Z        AvgOf_tBodyAccJerkMean_X      AvgOf_tBodyAccJerkMean_Y      
