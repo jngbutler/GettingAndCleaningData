@@ -1,4 +1,3 @@
-setwd("C:/Users/Admin/Desktop")
 
 ## Step 1: Merge the training and test sets to create one data set
 
