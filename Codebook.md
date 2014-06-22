@@ -35,7 +35,7 @@ The course project [4] required that students
 5. Create a tidy data set with the average of each variable for each activity and each subject  
 
 #### Final Tidy Data Set
-The final "tidy data" set consists of 180 rows (6 activities x 30 subjects) and 81 columns.  For each subjectid and activitylabel (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS), there are 79 columns containing the averages of the measurements.
+The final "tidy data" set consists of 180 rows (6 activities x 30 subjects) and 81 columns.  For each subjectid and activitylabel (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS), there are 79 variables containing the averages of the measurements.
 
 subjectid                     
 activitylabel                 
