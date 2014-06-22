@@ -26,7 +26,7 @@ Additional files "README.txt" and "features_info.txt" provided information the r
 ### J.Butler's Tidy Data Set
 
 #### Methodology
-The course project required that students [4]
+The course project [4] required that students
    
 1. Merge the training and the test sets to create one data set
 2. Extract only the measurements on the mean and standard deviation for each measurement  
