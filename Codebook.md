@@ -35,7 +35,31 @@ The course project [4] required that students
 5. Create a tidy data set with the average of each variable for each activity and each subject  
 
 #### Final Tidy Data Set
-The final "tidy data" set consists of 180 rows (6 activities x 30 subjects) and 81 columns.  For each subjectid and activitylabel (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS), there are 79 columns containing the averages of the measurements.
+The final "tidy data" set consists of 180 rows (6 activities x 30 subjects) and 81 columns.  
+
+subjectid		                  activitylabel                 AvgOf_tBodyAccMean_X          AvgOf_tBodyAccMean_Y          
+AvgOf_tBodyAccMean_Z          AvgOf_tBodyAccSTD_X           AvgOf_tBodyAccSTD_Y	          AvgOf_tBodyAccSTD_Z           
+AvgOf_tGravityAccMean_X       AvgOf_tGravityAccMean_Y       AvgOf_tGravityAccMean_Z       AvgOf_tGravityAccSTD_X        
+AvgOf_tGravityAccSTD_Y        AvgOf_tGravityAccSTD_Z        AvgOf_tBodyAccJerkMean_X      AvgOf_tBodyAccJerkMean_Y      
+AvgOf_tBodyAccJerkMean_Z      AvgOf_tBodyAccJerkSTD_X       AvgOf_tBodyAccJerkSTD_Y       AvgOf_tBodyAccJerkSTD_Z       
+AvgOf_tBodyGyroMean_X         AvgOf_tBodyGyroMean_Y         AvgOf_tBodyGyroMean_Z         AvgOf_tBodyGyroSTD_X          
+AvgOf_tBodyGyroSTD_Y          AvgOf_tBodyGyroSTD_Z          AvgOf_tBodyGyroJerkMean_X     AvgOf_tBodyGyroJerkMean_Y    
+AvgOf_tBodyGyroJerkMean_Z     AvgOf_tBodyGyroJerkSTD_X      AvgOf_tBodyGyroJerkSTD_Y      AvgOf_tBodyGyroJerkSTD_Z     
+AvgOf_tBodyAccMagMean         AvgOf_tBodyAccMagSTD          AvgOf_tGravityAccMagMean      AvgOf_tGravityAccMagSTD       
+AvgOf_tBodyAccJerkMagMean     AvgOf_tBodyAccJerkMagSTD      AvgOf_tBodyGyroMagMean        AvgOf_tBodyGyroMagSTD        
+AvgOf_tBodyGyroJerkMagMean    AvgOf_tBodyGyroJerkMagSTD     AvgOf_fBodyAccMean_X          AvgOf_fBodyAccMean_Y         
+AvgOf_fBodyAccMean_Z          AvgOf_fBodyAccSTD_X           AvgOf_fBodyAccSTD_Y           AvgOf_fBodyAccSTD_Z           
+AvgOf_fBodyAccMeanFreq_X      AvgOf_fBodyAccMeanFreq_Y      AvgOf_fBodyAccMeanFreq_Z      AvgOf_fBodyAccJerkMean_X      
+AvgOf_fBodyAccJerkMean_Y      AvgOf_fBodyAccJerkMean_Z      AvgOf_fBodyAccJerkSTD_X       AvgOf_fBodyAccJerkSTD_Y     
+AvgOf_fBodyAccJerkSTD_Z       AvgOf_fBodyAccJerkMeanFreq_X  AvgOf_fBodyAccJerkMeanFreq_Y  AvgOf_fBodyAccJerkMeanFreq_Z  
+AvgOf_fBodyGyroMean_X         AvgOf_fBodyGyroMean_Y         AvgOf_fBodyGyroMean_Z         AvgOf_fBodyGyroSTD_X          
+AvgOf_fBodyGyroSTD_Y          AvgOf_fBodyGyroSTD_Z          AvgOf_fBodyGyroMeanFreq_X     AvgOf_fBodyGyroMeanFreq_Y     
+AvgOf_fBodyGyroMeanFreq_Z     AvgOf_fBodyAccMagMean         AvgOf_fBodyAccMagSTD          AvgOf_fBodyAccMagMeanFreq     
+AvgOf_fBodyAccJerkMagMean     AvgOf_fBodyAccJerkMagSTD      AvgOf_fBodyAccJerkMagMeanFreq AvgOf_fBodyGyroMagMean        
+AvgOf_fBodyGyroMagSTD         AvgOf_fBodyGyroMagMeanFreq    AvgOf_fBodyGyroJerkMagMean    AvgOf_fBodyGyroJerkMagSTD     
+AvgOf_fBodyGyroJerkMagMeanFreq
+
+For each subjectid and activitylabel (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS), there are 79 columns containing the averages of the measurements.
 
 **Notes on variable names:**    
 
