@@ -136,9 +136,9 @@ std           | standard deviation
 AvgOf         | denotes that this an average of the measurement (by activity and subject)
 
 ### References
-1. Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
-2. Queensland Sports Technology Cluster "Inertial Sensors in Sports (accelerometers and gyroscopes)" Page. URL: http://www.qsportstechnology.com/sports-engineering/inertial-sensors-in-sports.  Accessed 6/20/2014. Queensland Sports Technology Cluster, Griffith University, Brisbane Australia.
+[2] Queensland Sports Technology Cluster "Inertial Sensors in Sports (accelerometers and gyroscopes)" Page. URL: http://www.qsportstechnology.com/sports-engineering/inertial-sensors-in-sports.  Accessed 6/20/2014. Queensland Sports Technology Cluster, Griffith University, Brisbane Australia.
 
 3. UCI HAR Dataset webiste on the UCI Machine Learning Repository.  URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.  Accessed 6/21/2014. 
 
