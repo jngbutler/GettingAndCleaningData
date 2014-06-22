@@ -111,13 +111,13 @@ AvgOf_fBodyAccMagSTD
 AvgOf_fBodyAccMagMeanFreq     
 AvgOf_fBodyAccJerkMagMean     
 AvgOf_fBodyAccJerkMagSTD      
-AvgOf_fBodyAccJerkMagMeanFreq 
+AvgOf_fBodyAccJerkMagMeanFreq    
 AvgOf_fBodyGyroMagMean        
 AvgOf_fBodyGyroMagSTD         
 AvgOf_fBodyGyroMagMeanFreq    
 AvgOf_fBodyGyroJerkMagMean    
 AvgOf_fBodyGyroJerkMagSTD     
-AvgOf_fBodyGyroJerkMagMeanFreq
+AvgOf_fBodyGyroJerkMagMeanFreq     
 
 **Notes on variable names:**    
 
