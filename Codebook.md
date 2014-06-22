@@ -140,6 +140,6 @@ AvgOf         | denotes that this an average of the measurement (by activity and
 
 [2] Queensland Sports Technology Cluster "Inertial Sensors in Sports (accelerometers and gyroscopes)" Page. URL: http://www.qsportstechnology.com/sports-engineering/inertial-sensors-in-sports.  Accessed 6/20/2014. Queensland Sports Technology Cluster, Griffith University, Brisbane Australia.
 
-3. UCI HAR Dataset webiste on the UCI Machine Learning Repository.  URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.  Accessed 6/21/2014. 
+[3] UCI HAR Dataset webiste on the UCI Machine Learning Repository.  URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.  Accessed 6/21/2014. 
 
-4. Coursera "Getting and Cleaning Data" website. URL: https://class.coursera.org/getdata-004/human_grading/view/courses/972137/assessments/3/submissions.  Accessed 6/21/2014.
+[4] Coursera "Getting and Cleaning Data" website. URL: https://class.coursera.org/getdata-004/human_grading/view/courses/972137/assessments/3/submissions.  Accessed 6/21/2014.
