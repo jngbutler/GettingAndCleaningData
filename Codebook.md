@@ -128,7 +128,9 @@ f             | this prefix denotes a frequency domain signal
 _X, _Y, _Z    | these suffixes indicates one of the triaxial planes
 Mag           | magnitude of the signals calculated using the Euclidian norm
 BodyAcc       | body acceleration signal   
-BodyAccJerk   | body linear acceleration signal  
+tBodyAccJerk  | body linear acceleration derived in time   
+BodyGyro      | body angular velocity signal
+tBodyGyroJerk | body angular velocity derived in time    
 GravityAcc    | gravity acceleration signal  
 std           | standard deviation
 AvgOf         | denotes that this an average of the measurement (by activity and subject)
